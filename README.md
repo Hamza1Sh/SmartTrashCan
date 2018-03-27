@@ -1,2 +1,2 @@
 # SmartTrashCan
-Arduino Code for Smart Trash Can using esp82660 module
+Arduino Code for Smart Trash Can using an ultra sonic sensor and esp82660 module
